@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27255a68-1bf4-4c21-8e1e-5ac54c5f4709</dc:identifier>
+        <dc:title>Beginning Ubuntu for Windows and Mac Users</dc:title>
+        <dc:creator opf:file-as="Haines, Nathan" opf:role="aut">Nathan Haines</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484206096</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Nathan Haines&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T21:14:51.008085+00:00" name="calibre:timestamp"/>
+        <meta content="Beginning Ubuntu for Windows and Mac Users" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

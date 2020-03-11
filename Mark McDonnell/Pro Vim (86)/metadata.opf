@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a2b3c1f-bffe-441d-881d-2cf16ef17195</dc:identifier>
+        <dc:title>Pro Vim</dc:title>
+        <dc:creator opf:file-as="McDonnell, Mark" opf:role="aut">Mark McDonnell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-26T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;i&gt;Pro Vim&lt;/i&gt; teaches you the real-world workflows, tips, and tricks of this powerful, terminal-based text editor. This book covers all the essentials, as well as lesser-known but equally powerful features that will ensure you become a top-level performant and professional user, able to jump between multiple sessions while manipulating and controlling with ease many different documents and programming files. With easy-to-digest chapters on all the areas you need to learn, this book is a key addition to your library that will enable you to become a fast, efficient user of Vim. &lt;/p&gt;&lt;p class="description"&gt;Using this book, you will learn how to properly configure your terminal environment and work without even touching the mouse. You will become an expert in how Vim actually works: how buffers and sessions work, automation through Macros and shell scripting, real-world workflows, and how to work efficiently and fast with plugins and different themes. You will also learn practical, real-world tips on how to best utilize Vim alongside the terminal multiplexer tmux; helping you to manage files across multiple servers and terminal sessions. Avoid common pitfalls and work with best practice ways to efficiently edit and control your files and sessions from the terminal interface.&lt;/p&gt;&lt;p class="description"&gt;Vim is an advanced power tool that is commonly recognized as being difficult to learn, even for experienced developers. This book shows you how to become an expert by focusing on not only the fundamentals of how Vim works, but also by distilling the author's own experiences learning Vim into an easy-to-understand and follow guide. It's time to bring your programming, editing, and workflow skills up to the professional level - use &lt;i&gt;Pro Vim&lt;/i&gt;today.&lt;/p&gt;&lt;p class="description"&gt;What you’ll learn&lt;/p&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Understand the fundamentals of how Vim works so you can better utilize its features.&lt;/li&gt;&lt;li&gt;Extend Vim using plugins; along with specific plugins that cover a wide range of technical requirements.&lt;/li&gt;&lt;li&gt;Automate Vim and tmux via the use of Macros and Scripting.&lt;/li&gt;&lt;li&gt;Learn how to make complex pattern based changes across multiple Vim buffers at once.&lt;/li&gt;&lt;li&gt;Pair program with remote users connecting to a single local tmux session.&lt;/li&gt;&lt;li&gt;Learn real-world workflows that integrate both Vim and tmux together.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p class="description"&gt;Who this book is for&lt;/p&gt;&lt;p class="description"&gt;&lt;i&gt;Pro Vim&lt;/i&gt; is for any developer who wishes (or has tried in the past and failed) to understand how to leverage the tools provided by Vim and tmux and integrate them into their professional working environment. Allowing them to take advantage of the power features these applications provide to become a better programmer.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress, Berkeley, CA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484202517</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Utilities</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
+        <dc:subject>Linux</dc:subject>
+        <meta content="{&quot;Mark McDonnell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T21:17:47.726389+00:00" name="calibre:timestamp"/>
+        <meta content="Pro Vim" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

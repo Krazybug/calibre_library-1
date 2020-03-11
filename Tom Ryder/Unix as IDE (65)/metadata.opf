@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b39f5f2-2649-40cc-b7eb-b79dcf84e6b8</dc:identifier>
+        <dc:title>Unix as IDE</dc:title>
+        <dc:creator opf:file-as="Ryder, Tom" opf:role="aut">Tom Ryder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-19T11:24:39+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Tom Ryder&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-18T20:35:53.377972+00:00" name="calibre:timestamp"/>
+        <meta content="Unix as IDE" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

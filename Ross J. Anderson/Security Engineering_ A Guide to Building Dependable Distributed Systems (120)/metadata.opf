@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">706b2ebf-c275-416f-892c-50b3b643e835</dc:identifier>
+        <dc:title>Security Engineering: A Guide to Building Dependable Distributed Systems</dc:title>
+        <dc:creator opf:file-as="Anderson, Ross J." opf:role="aut">Ross J. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-09T05:39:55+00:00</dc:date>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ross J. Anderson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T21:41:42.045843+00:00" name="calibre:timestamp"/>
+        <meta content="Security Engineering: A Guide to Building Dependable Distributed Systems" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84420e92-8edf-4b9b-b4d1-bf30201f91b4</dc:identifier>
+        <dc:title>The Age of Overwhelm</dc:title>
+        <dc:creator opf:file-as="Lipsky, Laura van Dernoot" opf:role="aut">Laura van Dernoot Lipsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-15T07:00:00+00:00</dc:date>
+        <dc:publisher>Berrett-Koehler Publishers, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d40b8e02-86a5-430b-b52e-f654b44e043a</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Laura van Dernoot Lipsky&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-01T20:30:58.485320+00:00" name="calibre:timestamp"/>
+        <meta content="Age of Overwhelm, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

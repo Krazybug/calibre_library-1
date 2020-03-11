@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cba0d06-bc6b-40df-88e0-b1e2ca508bab</dc:identifier>
+        <dc:title>OIT UTS Floor plan</dc:title>
+        <dc:creator opf:file-as="IMAGINiT Technologies, Inc." opf:role="aut">IMAGINiT Technologies, Inc.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Custom Template</dc:subject>
+        <dc:subject>IMAGINiT Commercial</dc:subject>
+        <meta content="{&quot;IMAGINiT Technologies, Inc.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-19T15:37:29.783320+00:00" name="calibre:timestamp"/>
+        <meta content="OIT UTS Floor plan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

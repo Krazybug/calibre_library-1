@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec68a3c5-4e86-4712-9e29-3fc4ca4741d2</dc:identifier>
+        <dc:title>From Mindfulness to Heartfulness: Transforming Self and Society with Compassion</dc:title>
+        <dc:creator opf:file-as="Murphy-Shigematsu, Stephen" opf:role="aut">Stephen Murphy-Shigematsu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-15T07:00:00+00:00</dc:date>
+        <dc:publisher>Berrett-Koehler Publishers, Inc</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3dde8068-20a0-4eca-a104-5a7026edd5be</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Stephen Murphy-Shigematsu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-01T20:30:57.949060+00:00" name="calibre:timestamp"/>
+        <meta content="From Mindfulness to Heartfulness: Transforming Self and Society with Compassion" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

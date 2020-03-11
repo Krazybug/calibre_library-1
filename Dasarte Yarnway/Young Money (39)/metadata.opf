@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">086aa66c-3008-401f-8f9d-4df9072d61e5</dc:identifier>
+        <dc:title>Young Money</dc:title>
+        <dc:creator opf:file-as="Yarnway, Dasarte" opf:role="aut">Dasarte Yarnway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-15T07:00:00+00:00</dc:date>
+        <dc:publisher>Berrett-Koehler Publishers, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">22bb02a1-acca-47a0-9d6f-59a42435ae57</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Dasarte Yarnway&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-01T20:32:23.277050+00:00" name="calibre:timestamp"/>
+        <meta content="Young Money" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

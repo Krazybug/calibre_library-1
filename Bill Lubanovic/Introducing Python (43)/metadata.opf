@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1e35ea4-eb5a-4275-94c1-dd90169f690a</dc:identifier>
+        <dc:title>Introducing Python</dc:title>
+        <dc:creator opf:file-as="Lubanovic, Bill" opf:role="aut">Bill Lubanovic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-23T16:34:36+00:00</dc:date>
+        <dc:description>BOOK MARKETING DESCRIPTION HERE. (This can be supplied by the author, but otherwise the Consumer Short Text from the Marketing tab in the PDB works here - just make sure not to paste curly quotes or em dashes! Replace with straight quotes and hyphens.)
+
+BOOK MARKETING DESCRIPTION HERE. (This can be supplied by the author, but otherwise the Consumer Short Text from the Marketing tab in the PDB works here - just make sure not to paste curly quotes or em dashes! Replace with straight quotes and hyphens.)</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Bill Lubanovic&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-05-02T15:40:35.911291+00:00" name="calibre:timestamp"/>
+        <meta content="Introducing Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

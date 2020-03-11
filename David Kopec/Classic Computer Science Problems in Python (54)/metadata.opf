@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48cce238-c687-4574-9fa1-4fea4bcafb05</dc:identifier>
+        <dc:title>Classic Computer Science Problems in Python</dc:title>
+        <dc:creator opf:file-as="Kopec, David" opf:role="aut">David Kopec</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-18T07:05:41.636000+00:00</dc:date>
+        <dc:description>Summary</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">66d67aae-898a-4a8e-8c41-6cf5dbc662fa</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;David Kopec&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-30T16:27:14.809480+00:00" name="calibre:timestamp"/>
+        <meta content="Classic Computer Science Problems in Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

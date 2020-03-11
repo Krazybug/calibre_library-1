@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">888f2170-3c30-43d4-b390-542a0ecde19c</dc:identifier>
+        <dc:title>Crunch Time</dc:title>
+        <dc:creator opf:file-as="Peterson, Rick &amp; Hoekstra, Judd" opf:role="aut">Rick Peterson</dc:creator>
+        <dc:creator opf:file-as="Peterson, Rick &amp; Hoekstra, Judd" opf:role="aut">Judd Hoekstra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-15T07:00:00+00:00</dc:date>
+        <dc:publisher>Berrett-Koehler Publishers, Inc</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a335ad7f-c767-4a5e-bf5d-9aba772563ff</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Judd Hoekstra&quot;: &quot;&quot;, &quot;Rick Peterson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-01T20:30:56.063151+00:00" name="calibre:timestamp"/>
+        <meta content="Crunch Time" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

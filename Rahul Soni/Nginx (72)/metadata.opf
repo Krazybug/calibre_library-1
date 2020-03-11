@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc0abf15-aba4-4bfe-82c7-638beb556a9f</dc:identifier>
+        <dc:title>Nginx</dc:title>
+        <dc:creator opf:file-as="Soni, Rahul" opf:role="aut">Rahul Soni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Apress, Berkeley, CA</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Rahul Soni&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T21:14:50.719848+00:00" name="calibre:timestamp"/>
+        <meta content="Nginx" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

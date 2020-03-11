@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">94</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2de4e7d-5a01-4f86-bbea-2d137eeec3c3</dc:identifier>
+        <dc:title>Introducing Linux Distros</dc:title>
+        <dc:creator opf:file-as="Castro, Jose Dieguez" opf:role="aut">Jose Dieguez Castro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Apress, Berkeley, CA</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jose Dieguez Castro&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T21:17:48.685706+00:00" name="calibre:timestamp"/>
+        <meta content="Introducing Linux Distros" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

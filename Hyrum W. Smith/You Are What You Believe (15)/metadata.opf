@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da519100-89ba-4837-b3a7-0de3b7e88007</dc:identifier>
+        <dc:title>You Are What You Believe</dc:title>
+        <dc:creator opf:file-as="Smith, Hyrum W." opf:role="aut">Hyrum W. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-15T07:00:00+00:00</dc:date>
+        <dc:publisher>Berrett-Koehler Publishers</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a167e4a9-6981-4183-b673-fb142282fbd8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Hyrum W. Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-01T20:29:55.643484+00:00" name="calibre:timestamp"/>
+        <meta content="You Are What You Believe" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9432e383-4255-48f9-82af-f25c110ddf23</dc:identifier>
+        <dc:title>Pro Git</dc:title>
+        <dc:creator opf:file-as="Chacon, Scott &amp; Straub, Ben" opf:role="aut">Scott Chacon</dc:creator>
+        <dc:creator opf:file-as="Chacon, Scott &amp; Straub, Ben" opf:role="aut">Ben Straub</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-29T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. Effective and well-implemented version control is a necessity for successful web projects, whether large or small. With this book you’ll learn how to master the world of distributed version workflow, use the distributed features of Git to the full, and extend Git to meet your every need. &lt;/p&gt;&lt;p class="description"&gt;Written by Git pros Scott Chacon and Ben Straub, Pro Git (Second Edition) builds on the hugely successful first edition, and is now fully updated for Git version 2.0, as well as including an indispensable chapter on GitHub. It’s the best book for all your Git needs.&lt;/p&gt;&lt;p class="description"&gt;What you’ll learn&lt;/p&gt;&lt;p class="description"&gt;• Effectively use Git, either as a programmer or a project leader&lt;/p&gt;&lt;p class="description"&gt;• Become a fluent Git user&lt;/p&gt;&lt;p class="description"&gt;• Master branching, using Git on the server, and on other systems&lt;/p&gt;&lt;p class="description"&gt;• Integrate Git in your development workflow&lt;/p&gt;&lt;p class="description"&gt;• Migrate programming projects from other SCMs to Git&lt;/p&gt;&lt;p class="description"&gt;• Extend Git for your personal project needs&lt;/p&gt;&lt;p class="description"&gt;• Effectively use GitHub&lt;/p&gt;&lt;p class="description"&gt;Who this book is for&lt;/p&gt;&lt;p class="description"&gt;This book is for all open source developers: you are bound to encounter Git somewhere in the course of your working life. Proprietary software developers will appreciate Git’s enormous scalability, since it is used for the Linux project, which comprises thousands of developers and testers.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484200773</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Systems Architecture</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Distributed Systems &amp; Computing</dc:subject>
+        <dc:subject>System Administration</dc:subject>
+        <dc:subject>Linux &amp; UNIX Administration</dc:subject>
+        <meta content="{&quot;Ben Straub&quot;: &quot;&quot;, &quot;Scott Chacon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T21:14:49.918772+00:00" name="calibre:timestamp"/>
+        <meta content="Pro Git" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

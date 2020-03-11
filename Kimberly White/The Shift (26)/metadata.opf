@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">20f5a257-b162-42dc-9312-06cf5a752564</dc:identifier>
+        <dc:title>The Shift</dc:title>
+        <dc:creator opf:file-as="White, Kimberly" opf:role="aut">Kimberly White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-15T07:00:00+00:00</dc:date>
+        <dc:publisher>Berrett-Koehler Publishers, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5560e870-003b-4e70-b0be-7751a817b902</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kimberly White&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-01T20:30:56.587840+00:00" name="calibre:timestamp"/>
+        <meta content="Shift, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

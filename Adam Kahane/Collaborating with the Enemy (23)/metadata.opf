@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a9f8994-0bb7-4053-b7b6-b5ba0065a4e7</dc:identifier>
+        <dc:title>Collaborating with the Enemy</dc:title>
+        <dc:creator opf:file-as="Kahane, Adam" opf:role="aut">Adam Kahane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-15T07:00:00+00:00</dc:date>
+        <dc:publisher>Berrett-Koehler Publishers, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f300adc6-99c9-4195-acf3-0b2b204e471f</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Adam Kahane&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-01T20:30:55.789805+00:00" name="calibre:timestamp"/>
+        <meta content="Collaborating with the Enemy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

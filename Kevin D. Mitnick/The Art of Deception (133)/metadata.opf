@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77d333ae-ac76-4695-b9aa-d8465f27db4c</dc:identifier>
+        <dc:title>The Art of Deception</dc:title>
+        <dc:creator opf:file-as="Mitnick, Kevin D." opf:role="aut">Kevin D. Mitnick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-07-28T07:00:00+00:00</dc:date>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kevin D. Mitnick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T21:43:43+00:00" name="calibre:timestamp"/>
+        <meta content="Art of Deception, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

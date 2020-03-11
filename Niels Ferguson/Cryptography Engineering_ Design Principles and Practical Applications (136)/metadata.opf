@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc237514-3634-4cab-855e-be7896e58216</dc:identifier>
+        <dc:title>Cryptography Engineering: Design Principles and Practical Applications</dc:title>
+        <dc:creator opf:file-as="Ferguson, Niels &amp; Schneier, Bruce &amp; Kohno, Tadayoshi" opf:role="aut">Niels Ferguson</dc:creator>
+        <dc:creator opf:file-as="Ferguson, Niels &amp; Schneier, Bruce &amp; Kohno, Tadayoshi" opf:role="aut">Bruce Schneier</dc:creator>
+        <dc:creator opf:file-as="Ferguson, Niels &amp; Schneier, Bruce &amp; Kohno, Tadayoshi" opf:role="aut">Tadayoshi Kohno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-03T00:00:00+00:00</dc:date>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118080917</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Tadayoshi Kohno&quot;: &quot;&quot;, &quot;Niels Ferguson&quot;: &quot;&quot;, &quot;Bruce Schneier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-12-20T21:43:44+00:00" name="calibre:timestamp"/>
+        <meta content="Cryptography Engineering: Design Principles and Practical Applications" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

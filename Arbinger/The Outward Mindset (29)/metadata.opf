@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c473d992-e4ab-43c2-ad3d-51b1cb859b87</dc:identifier>
+        <dc:title>The Outward Mindset</dc:title>
+        <dc:creator opf:file-as="Arbinger" opf:role="aut">Arbinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.31.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-15T07:00:00+00:00</dc:date>
+        <dc:publisher>Berrett-Koehler Publishers</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8d45c509-75e1-43a0-bc7b-34334d462d34</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Arbinger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-04-01T20:30:57.390097+00:00" name="calibre:timestamp"/>
+        <meta content="Outward Mindset, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
